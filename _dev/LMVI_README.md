@@ -1,5 +1,9 @@
 # LazyDINO Tutorial
 
+## Getting Started
+
+See the [LazyDINO tutorial](https://github.com/joshuawchen/lazydino_tutorial) for a complete walkthrough of the LazyDINO pipeline: problem setup, DINO training, LMVI training, and approximate posterior sampling
+
 ## Installation
 
 ### Step 1 — Install dinox (follow README to install correctly, a pip install alone will not suffice)
