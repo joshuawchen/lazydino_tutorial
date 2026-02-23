@@ -4,6 +4,8 @@
 
 See the [LazyDINO tutorial](https://github.com/joshuawchen/lazydino_tutorial/blob/main/LazyDINO_Tutorial.ipynb) for a complete walkthrough of the LazyDINO pipeline: problem setup, DINO training, LMVI training, and approximate posterior sampling
 
+---
+
 ## Installation
 
 ### Step 1 — Install dinox (follow README to install correctly, a pip install alone will not suffice)
@@ -21,6 +23,17 @@ pip install dinox
 ```bash
 pip install flowjax==19.1.0
 ```
+
+---
+
+## Requirements
+
+- Python == 3.11
+- dinox == 0.5.6
+- flowjax == 19.1.0
+
+#### Note: requirements are pinned for this tutorial, for stability. There have been frequent changes to equinox/flowjax/dinox. Sometimes, these can be breaking changes.
+---
 
 ## Repository
 
