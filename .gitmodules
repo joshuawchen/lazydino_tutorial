@@ -1,0 +1,4 @@
+[submodule "dinox"]
+	path = dinox
+	url = https://github.com/dinoSciML/dinox.git
+	branch = main
