@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-See the [LazyDINO tutorial](https://github.com/joshuawchen/lazydino_tutorial) for a complete walkthrough of the LazyDINO pipeline: problem setup, DINO training, LMVI training, and approximate posterior sampling
+See the [LazyDINO tutorial](https://github.com/joshuawchen/lazydino_tutorial/blob/main/LazyDINO_Tutorial.ipynb) for a complete walkthrough of the LazyDINO pipeline: problem setup, DINO training, LMVI training, and approximate posterior sampling
 
 ## Installation
 
