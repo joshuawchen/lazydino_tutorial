@@ -27,7 +27,7 @@ if __name__ == "__main__":
     p.add_argument("base")
     p.add_argument("extension")
     p.add_argument("output")
-    p.add_argument("--title", default="LazyDINO Tutorial README")
+    p.add_argument("--title", default="LazyDINO Tutorial README ")
     p.add_argument("--part1-label", default="Part 1")
     p.add_argument("--part2-label", default="Part 2")
     a = p.parse_args()

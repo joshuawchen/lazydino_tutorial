@@ -18,7 +18,7 @@ git submodule update --remote
 # ── Build combined README ────────────────────────────────────────────────────
 echo "Building README.md..."
 python _dev/scripts/merge_readme.py \
-    --title "LazyDINO Tutorial Readme" \
+    --title "LazyDINO Tutorial README" \
     --part1-label "Part 1: DINO" \
     --part2-label "Part 2: LazyDINO" \
     dinox/README.md \
